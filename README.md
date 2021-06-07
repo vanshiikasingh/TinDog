@@ -1,6 +1,12 @@
 # TinDog - FOR MODERN DOGS AND THEIR BEST FRIENDS!
 
+
+
 TinDog is a startup website which is made for dogs to find their soulmates!
+<br>
+
+Site: https://vanshiikasingh.github.io/TinDog/
+
 <br>
 
 Key Skills used : HTML, CSS and Bootstrap. 
